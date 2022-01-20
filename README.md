@@ -1,3 +1,1 @@
-# testrepo
-for demo use
-this is my first report
+this repository is a lab used for IIT class ITMD-361
