@@ -1,2 +1,15 @@
-text doc
-qeqweqwe
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ITMD-361 Internet Technologies and Web Design</title>
+</head>
+<body>
+  <p>&amp; Hello world. This is my first website!</p>
+  <p>Instructions: My name is william tillett and im a mechanical engineer with a ITM minor. Add a heading. Post it to your basecamp</p>
+  <p>My favorite food is my moms lasagna(no one else's) and My hobbies include 3D printing, weightlifting/calisthenics, and taking pictures with my drone.</p>
+  <p> </p>
+  <p>                                             Im looking forward to learning from you this semester!                            </p>
+ 
+</body>
+</html>
